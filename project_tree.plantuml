@@ -1,0 +1,17 @@
+@startuml
+skinparam monochrome true
+
+folder "dev_docs_web3" {
+    file ".env"
+    file ".gitignore"
+    file "README.md"
+    file "changelog.md"
+    file "langgraph-mcp.py"
+    file "llms_full.txt"
+    file "project_tree.plantuml"
+    file "rag-tool.ipynb"
+    file "rag_interactive.py"
+    file "requirements.txt"
+    file "sklearn_vectorstore.parquet"
+}
+@enduml
